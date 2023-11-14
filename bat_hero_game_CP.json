@@ -1,0 +1,35 @@
+{
+  "Ad_Priority" : "1",
+  "Custom_Ad_Download_link" : [ "com.zgs.spider.rope.hero.fighter", 
+                               "com.zgs.spider.rope.hero.fighter", 
+                               "com.zgs.spider.rope.hero.fighter",
+                              "com.zgs.spider.rope.hero.fighter", 
+                               "com.zgs.spider.rope.hero.fighter"],
+  
+    "Custom_Icon_Ad_Download_link" : [ "com.zgs.spider.rope.hero.fighter", 
+                               "com.zgs.spider.rope.hero.fighter", 
+                               "com.zgs.spider.rope.hero.fighter",
+                              "com.zgs.spider.rope.hero.fighter", 
+                               "com.zgs.spider.rope.hero.fighter"],
+  
+  "Custom_Ad_Icons_URL" : [ "https://play-lh.googleusercontent.com/jhLqwkXMNjRmRc9uAbqTyMtpWzsSoY614FF9egfz2Th9A2tqxUzhwSB2LYCsAmiSRg=s180", 
+                           "https://play-lh.googleusercontent.com/mU_To0YQyMQqXRsrE38BNVSUBADcWPCFLauJ0fslkFuovxtH77jWt8gpK9JsQIT5zA=s360", 
+                           "https://play-lh.googleusercontent.com/tUHy6FeF6UrZjwfFpB2kOXWiXiFpUTsLEBHhDDwDLfhdG6pkmMpd2mGZTn23tOQZYMo=s360",
+                           "https://play-lh.googleusercontent.com/27KVVNpIUK9JbBJHEn_h3NNuzEMqe7Tlc8ehhZvkEyl-iz0FLTBomhFJEDndZrfTjA=s360", 
+                           "https://play-lh.googleusercontent.com/gWyiaLkWgtHtGZ9I0ilyfZqU52Yd3BVYJ7RQt19nWqElh22C5dXW5B126fGy-IXchEc=s360" ],
+  
+  "Custom_Ad_ScreenShots_URL" : [ "https://play-lh.googleusercontent.com/esP0PehV_l4bvXlY4BEjiK3nDtmsoKEkuvw6rVKQaNiGALjakvajMSu_4qK0Sm6P95s=w5120-h2880", 
+                                 "https://play-lh.googleusercontent.com/YijH732PP-Wg45MQg9NNlQmKzzO9tflPp_JKWEYk6qQQB4sNBIlo9oOT-2ZKz3C8fdQ=w5120-h2880", 
+                                 "https://play-lh.googleusercontent.com/LmTgdkB5JB0YN3fdK3y-6kiaadUS6jTBK_SOGmuWtP-l1XQ4zG6uLDDAxTzeqDk2GdU=w5120-h2880",
+                                 "https://play-lh.googleusercontent.com/VPTa8kRl9zTFhffi7BMCYm319TYXjNoaCHqFKPvob2hRuCdTSmtFS0QMmug0nJSzIB7d=w5120-h2880", 
+                                 "https://play-lh.googleusercontent.com/LmTgdkB5JB0YN3fdK3y-6kiaadUS6jTBK_SOGmuWtP-l1XQ4zG6uLDDAxTzeqDk2GdU=w5120-h2880"],
+  "Indetifier_ID" : "com.Game.io.4x4.OFFRoad.JeepParking.2020",
+  "Start_Showing_Ads" : true,
+  "showCP" : true,
+  "doubleBanner" : true,
+  "hideInterstitials" : false,
+  "interstitial_Flow" : 1,
+  "showAppOpen" : true,
+  "init_Open" : 0,
+  "AdsFrequency" : 80
+}
