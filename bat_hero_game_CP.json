@@ -31,5 +31,6 @@
   "interstitial_Flow" : 1,
   "showAppOpen" : true,
   "init_Open" : 0,
-  "AdsFrequency" : 80
+  "AdsFrequency" : 80,
+  "ExtraButtons" : false
 }
