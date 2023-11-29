@@ -32,5 +32,5 @@
   "showAppOpen" : true,
   "init_Open" : 0,
   "AdsFrequency" : 80,
-  "ExtraButtons" : true
+  "ExtraButtons" : 1
 }
